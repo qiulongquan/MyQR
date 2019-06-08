@@ -5,5 +5,3 @@
 # .gitignore が置かれたディレクトリ内のfile.phpを除外
 .DS_Store/
 .idea/
-.DS_Store
-.idea
